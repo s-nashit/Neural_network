@@ -1,1 +1,3 @@
-keras to build a neural network 
+keras to build a neural network
+
+jupyter notebook
